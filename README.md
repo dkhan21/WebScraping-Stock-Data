@@ -1,6 +1,10 @@
 # Web Scraping Stock Data Project
-Overview
+
+## Overview
 This project is a web scraping application that extracts stock data from [Yahoo Finance - Most Active Stocks](https://finance.yahoo.com/most-active?guccounter=2). The scraped data includes stock symbols, names, prices, changes, and volumes. The data is then stored in a MongoDB database and displayed on a web page using PHP and HTML.
+
+## Webscraping Showcase
+![web](StockDataWebsite.png)
 
 ## Technologies Used
 - Python: Used for web scraping the stock data from the Yahoo Finance website.
@@ -24,4 +28,5 @@ The PHP file combines PHP and HTML to create a dynamic web page that fetches sto
 ![Mongo](StockInfoDataBase.png)
 
 ## Apache Server
+![Apache](ApacheServer.png)
 
