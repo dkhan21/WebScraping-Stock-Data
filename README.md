@@ -18,3 +18,10 @@ The PHP file combines PHP and HTML to create a dynamic web page that fetches sto
 - Run the Python script to scrape and store stock data in the MongoDB 
 - Place the PHP file in the appropriate directory accessible by the Apache server.
 - Access the PHP file through a web browser with localhost/foldername of where your PHP script is located
+
+## MongoDB Image
+
+![Mongo](StockInfoDataBase.png)
+
+## Apache Server
+
